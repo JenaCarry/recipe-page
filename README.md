@@ -5,7 +5,7 @@
   <h2>Recipe page</h2>
 
   <h3>
-    <a href="https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-2eiA_NNDs-">
+    <a href="https://www.frontendmentor.io/solutions/recipe-page-7A2GSPabBn">
       <strong>Frontend Mentor</strong>
     </a>
   </h3>
@@ -34,7 +34,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 <h2>Links</h2>
 
--   Solution URL: [Recipe page | Frontend Mentor](https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-2eiA_NNDs-)
+-   Solution URL: [Recipe page | Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-7A2GSPabBn)
 -   Live Site URL: [https://jenacarry.github.io/recipe-page/](https://jenacarry.github.io/recipe-page/)
 
 <br>
