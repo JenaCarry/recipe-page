@@ -38,7 +38,7 @@ body {
 
 main {
     width: 100%;
-    max-width: 28rem;
+    max-width: 32rem;
     display: grid;
     gap: 2rem;
 }
@@ -49,7 +49,7 @@ h2 {
 }
 
 img {
-    width: 28rem;
+    width: 32rem;
     max-width: 100%;
 }
 
@@ -162,25 +162,24 @@ hr {
     color: var(--brown-800);
 }
 
-@media (min-width: 28rem) {
+@media (min-width: 32rem) {
     body {
         background-color: var(--stone-100);
         padding: 0 0.5rem;
     }
 
     main {
-        max-width: 64rem;
-        gap: 2rem;
+        max-width: 48rem;
         background-color: var(--white);
-        padding: 2rem;
+        padding: 1.625rem;
         margin: 4rem 0;
-        border-radius: 1rem;
+        border-radius: 1.25rem;
     }
 
     img {
         width: 100%;
-        border-radius: 0.75rem;
-        box-shadow: 0 2px 2px rgba(0, 0, 0, 0.15);
+        border-radius: 0.875rem;
+        box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
     }
 
     section {
@@ -188,28 +187,12 @@ hr {
     }
 }
 
-@media (min-width: 64rem) {
-    main {
-        padding: 2.25rem;
-    }
-
-    .omelette-recipe h1 {
-        font-size: 3rem;
-    }
-
-    .ingredients h2,
-    .instructions h2,
-    .nutrition h2 {
-        font-size: 2rem;
-    }
-}
-
-@media (min-width: 80rem) {
+@media (min-width: 48rem) {
     main {
         padding: 3rem;
     }
 
     .omelette-recipe h1 {
-        font-size: 3.25rem;
+        font-size: 2.625rem;
     }
 }
