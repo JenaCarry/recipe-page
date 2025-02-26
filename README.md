@@ -60,11 +60,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Built with
 
 -   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   CSS Grid
 -   Mobile-first workflow
--   CSS
 
 ## Author
 
 -   Frontend Mentor - [@JenaCarry](https://www.frontendmentor.io/profile/JenaCarry)
 -   LinkedIn - [Jean Dias](https://www.linkedin.com/in/jean-dias-0900a1260/)
-
