@@ -13,11 +13,11 @@
   <br>
 
   <div align="center">
-    <a href="https://rest-countries-api-with-color-theme-switcher-weld.vercel.app/">View Demo</a>
+    <a href="https://jenacarry.github.io/recipe-page/">View Demo</a>
     -
-    <a href="https://github.com/JenaCarry/rest-countries-api-with-color-theme-switcher/issues">Report Bug</a>
+    <a href="https://github.com/JenaCarry/recipe-page/issues">Report Bug</a>
     -
-    <a href="https://github.com/JenaCarry/rest-countries-api-with-color-theme-switcher/pulls">Request Feature</a>
+    <a href="https://github.com/JenaCarry/recipe-page/pulls">Request Feature</a>
   </div>
 
 </div>
@@ -35,7 +35,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 <h2>Links</h2>
 
 -   Solution URL: [Recipe page | Frontend Mentor](https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-2eiA_NNDs-)
--   Live Site URL: [https://rest-countries-api-with-color-theme-switcher-weld.vercel.app/](https://rest-countries-api-with-color-theme-switcher-weld.vercel.app/)
+-   Live Site URL: [https://jenacarry.github.io/recipe-page/](https://jenacarry.github.io/recipe-page/)
 
 <br>
 
